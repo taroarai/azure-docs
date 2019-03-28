@@ -696,8 +696,8 @@ To get the same data as a file of comma-separated values, download [move-support
 ## Microsoft.SqlVirtualMachine
 | Resource type | Resource group | Subscription |
 | ------------- | ----------- | ---------- |
-| sqlvirtualmachinegroups | Yes | Yes |
-| sqlvirtualmachines | Yes | Yes |
+| sqlvirtualmachinegroups | No | No |
+| sqlvirtualmachines | No | No |
 
 ## Microsoft.SqlVM
 | Resource type | Resource group | Subscription |
